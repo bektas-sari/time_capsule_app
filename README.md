@@ -1,4 +1,4 @@
-# Time Capsule App ⏳
+# Time Capsule App ⏳ (Flutter APP)
 
 **Time Capsule** is a Flutter app that lets you write a message to your future self. Choose a future date, lock the message, and open it only when that day arrives. Perfect for personal reflection, motivation, or emotional check-ins.
 
