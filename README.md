@@ -46,8 +46,6 @@ lib/
 
 MIT License
 
----
+## Contact
 
-> "Send a message through time — only to yourself."
-
----
+Email: bektas.sari@gmail.com
